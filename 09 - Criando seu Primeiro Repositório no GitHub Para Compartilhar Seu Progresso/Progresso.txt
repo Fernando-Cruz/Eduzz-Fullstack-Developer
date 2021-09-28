@@ -1,0 +1,5 @@
+Conforme orientação do Venilton Falvo Jr.
+
+
+E de muita importância o entendimento de forma de trabalho com o Git, a fim de sempre estar em contato com as principais ferramentas de desenvolvimento de software.
+O importante e colocar todos os processos aqui como se estivessemos trabalhando em equipe, criando assim o habito de trabalho com a ferramenta.
